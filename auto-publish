@@ -2,6 +2,7 @@
 
 set -e
 
+git pull
 mkdir -p out
 make clean
 make all
