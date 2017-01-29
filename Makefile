@@ -2,8 +2,7 @@
 
 OUTPUT ?= out/
 
-$(OUTPUT)%.html: %.md
-	pandoc -s -S $^ --from markdown --to html5 -o $@
+include rules.mk
 
 TARGETS = index.html
 PREFIXED = $(patsubst %, $(OUTPUT)%, $(TARGETS))
