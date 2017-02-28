@@ -29,6 +29,6 @@ no context, and over time this makes it feel like less of a community.
 re-introduce ourselves to each other and see who's active as the group
 morphs and grows.
 
-
+[Edit this site](https://github.com/pugmajere/opsen)
 
 [^extended]: Really, the extended Bay Area commmunity. :)
