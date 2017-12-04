@@ -12,7 +12,7 @@ The "Opsen" community is an invite-only group of individuals, centered in the Ba
     *  You're an adult, you don't need to ask permission.
     *  You will be held responsible for them if they misbehave. This has happened multiple times, so don't take it lightly.
     *  Do you think that the person you are inviting is *interesting, a contributor, a good community member*, and/or *someone who needs this community*?
-    *  I encourage you not to invite people lightly, not to dilute the community.
+    *  You are encouraged to not invite people lightly; don't dilute the community.
     *  If you just want to bring a friend along once or twice, you don't have to baptize them into the mailing list, community, and slack. Just bring along a buddy, and introduce them.
 
 1.  If you join opsen, send an intro.  If you invite someone to join opsen, *tell them these rules*, and *bug them to send an intro*.  It's your job to communicate this and remind them.  I feel like this is the main place we are failing: new people show up with no intro, there's no context, and over time this makes it feel like less of a community.
