@@ -21,4 +21,4 @@ The "Opsen" community is an invite-only group of individuals, centered in the Ba
 
 [Edit this site](https://github.com/pugmajere/opsen)
 
-[^extended]: Really, the extended Bay Area commmunity. :)
+[^extended]: Really, the extended Bay Area community. :)
